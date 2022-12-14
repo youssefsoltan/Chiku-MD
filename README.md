@@ -13,24 +13,9 @@
 
 ## ✧✧✧ Bot prefix is changed now (.menu)
 
-##✧✧✧ you can now deploy  Chiku-MD on GitHub code space 
-
-<p align="center">
-  <a href="https://github.com/Ayush-pandey-u/Chiku-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
-    
-    
-  <a href="https://github.com/Ayush-pandey-u/Chiku-MD">
-    <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
-  </a>
-
-<p align="center">
-  <a href="https://github.com/Ayush-pandey-u/Chiku-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
-    
-    
-<a href="https://github.com/Ayush-pandey-u">
-    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
+<h1 align="center"> ##✧✧✧ you can now deploy  Chiku-MD on GitHub code space 
+</h1>
+<p 
   </a>
 </br>
       
