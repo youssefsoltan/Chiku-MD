@@ -11,6 +11,10 @@
 <p align="center"> 
   Konochiwa Senpai, I am "chiku md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
+## ✧✧✧ Bot prefix is changed now (.menu)
+
+##✧✧✧ you can now deploy  Chiku-MD on GitHub code space 
+
 <p align="center">
   <a href="https://github.com/Ayush-pandey-u/Chiku-MD/fork">
     <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
@@ -62,15 +66,10 @@
 
 Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 
-## ✧✧✧ Heroku Deployment Method:
-
 ####  Scan indirectly from my `repl.it`
 
 #### <a href="https://Chiku-QR.ayushpandey954.repl.co"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
 #### if you can see device not connected error then refresh The qr page and scan again within 15 seconds
-          
-
-#### ✧ [![chiku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush-pandey-u/Chiku-MD)
 
 
 
@@ -85,20 +84,7 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 <a href="https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-## ✧✧✧ CMD Deployment Method
-```
-apt update
-apt upgrade
-pkg update && pkg upgrade
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/Ayush-pandey-u/Chiku-MD
-cd Chiku-MD
-npm start
+
 ```
 ### ✧ Requirements for CMD istallation:
 - Git
@@ -108,8 +94,3 @@ npm start
 
 Note: If you don't pre-install these plugins before CMD Installation bot couldn't execute name commands!
 </br> 
-
-## ✧✧✧ Bot prefix is changed now (.menu)
-
-
-`Xeon` for [Cheems](https://github.com/DGXeon/CheemsBot-MD2) for vn message 
