@@ -87,15 +87,17 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 
 ## ✧✧✧ CMD Deployment Method
 ```
-
+apt update
+apt upgrade
+pkg update && pkg upgrade
 apt install nodejs 
 apt install git 
 apt apt install ffmpeg 
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD4
+git clone https://github.com/Ayush-pandey-u/Chiku-MD
+cd Chiku-MD
 npm start
 ```
 ### ✧ Requirements for CMD istallation:
