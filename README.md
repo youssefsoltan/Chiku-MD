@@ -77,29 +77,7 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 #### ✧ `Fork` this repo.
 ####  Scan indirectly from my `repl.it`
 #### ✧ Download the `session.json` file and upload it on the hompage of your `Fork`.
-#### ✧ Go to your `Heroku` account.
-#### ✧ Create a `random app` in Heroku with any name.
-#### ✧ Connect your `GitHub` with `Heroku`
-#### ✧ Then connect `chiku's repo` from your GitHub.
-#### ✧ Go to Heroku's `settings` ---> `Add Buildpacks` then connect these 3 buildpacks one by one mentionned    below.
-#### ✧ Then come back to `Heroku` ---> `Deploy` then deploy the app
-#### ✧ After deploy is finished goto `Heroku` ---> `Resources` and turn on the switch.
-#### ✧ Enjoy :)
 
-
-
-
-## ✧ Heroku Builbpacks:
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-``` 
-```
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-```
-heroku/nodejs
-```
 
 
 ## ✧✧✧ Join My Whatsapp Group for Support
@@ -109,9 +87,9 @@ heroku/nodejs
 
 ## ✧✧✧ CMD Deployment Method
 
-##git clone(https://github.com/Ayush-pandey-u/Chiku-MD.git)
-##cd Miku-MD
-npm i
+#git clone https://github.com/Ayush-pandey-u/Chiku-MD.git
+#cd Miku-MD
+#npm i
 
 
 ### ✧ Requirements for CMD istallation:
