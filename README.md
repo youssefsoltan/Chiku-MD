@@ -96,12 +96,21 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-termux-setup-storage
-git clone https://github.com/Ayush-pandey-u/Chiku-MD
-cd Chiku-MD
-yarn install
+git clone https://github.com/DGXeon/CheemsBot-MD4
+cd CheemsBot-MD
 npm start
+```
 
+apt install nodejs 
+apt install git 
+apt apt install ffmpeg 
+apt apt install libwebp 
+apt apt install imagrmagick
+apt install bash
+git clone https://github.com/DGXeon/CheemsBot-MD4
+cd CheemsBot-MD4
+npm start
+```
 ### ✧ Requirements for CMD istallation:
 - Git
 - Node.js
