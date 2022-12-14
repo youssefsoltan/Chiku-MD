@@ -13,7 +13,7 @@
 
 ## ✧✧✧ Bot prefix is changed now (.menu)
 
-<h1 align="center"> ##✧✧✧ you can now deploy  Chiku-MD on GitHub code space 
+<h1> ##✧✧✧ you can now deploy  Chiku-MD on GitHub code space 
 </h1>
 <p 
   </a>
