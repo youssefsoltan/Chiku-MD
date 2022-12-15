@@ -62,6 +62,9 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 ####  Scan indirectly from my `repl.it`
 #### ✧ Download the `session.json` file and upload it on the hompage of your `Fork`.
 
+  ## Thanks To
+* [`Aswin Sparky`](https://github.com/Sparkymon777)
+
 
 
 ## ✧✧✧ Join My Whatsapp Group for Support
@@ -80,5 +83,3 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 Note: If you don't pre-install these plugins before CMD Installation bot couldn't execute name commands!
 </br> 
 
-  ## Thanks To
-* [`Aswin Sparky`](https://github.com/Sparkymon777)
