@@ -31,7 +31,7 @@ Chiku Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 
 ## DEPLOY ON RAILWAY 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yt3n7v?referralCode=P8bW88)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new)
 
 
 
@@ -40,21 +40,22 @@ Chiku Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/917012984396"><img src="https://img.shields.io/badge/Contact SPARKY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/919006765023"><img src="https://img.shields.io/badge/Contact AYUSH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"><img src="https://img.shields.io/badge/Join Official Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/@sparkymon777"><img src="https://img.shields.io/badge/Subscribe SPARKY'S CHANNEL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh)
+- [`1st GC`](https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8)
+- [`2nd GC`](https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh)
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Sparkymon777/SPARKY-BOT-MD/fork)
-```
-  
+- FORK THE REPOSITORY [Here](https://github.com/Ayush-pandey-u/Chiku-MD/fork)
+
   
   ## Thanks To
 * [`Aswin Sparky`](https://github.com/Sparkymon777)
-
+---------
