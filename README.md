@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Chiku Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Ayush-pandey-u" target="_blank">Ayush</a> collaborated with <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Chiku Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Ayush-pandey-u" target="_blank">Ayush</a> collaborated with <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> Using <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Chiku Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 
 ## SCAN QR FROM HERE
 
-[![Run on Repl.it](https://repl.it/badge/github/Sparkymon777/SPARKY-BOT-MD)](https://replit.com/@Sparkymon777/SPARKY-BOT-Ultra?v=output%20only=1&lite=1#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/Sparkymon777/SPARKY-BOT-MD)](https://Chiku-QR.ayushpandey954.repl.co)
 
 
 
