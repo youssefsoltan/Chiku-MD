@@ -1,85 +1,60 @@
-<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
+<h1 align="center">SPARKY-BOT-MD<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
+</p>
+
+<p align="center">
+Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+</p>
+
+<p align="center">
+<a href="https://youtu.be/u7mArDtlTZk"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+</p>
+
+# Install
+
+## SCAN QR FROM HERE
+
+[![Run on Repl.it](https://repl.it/badge/github/Sparkymon777/SPARKY-BOT-MD)](https://replit.com/@Sparkymon777/SPARKY-BOT-Ultra?v=output%20only=1&lite=1#index.js)
+
+
+
+----------
+
+<p align="center">
 
 
 
 </p>
-<h1 align="center"> chiku (Beta)
-</h1>
-<p align="center"> 
-  Konochiwa Senpai, I am "chiku md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
-## ✧✧✧ Bot prefix is changed now (.menu)
+## DEPLOY ON RAILWAY 
 
-##✧✧✧ you can now deploy  Chiku-MD on GitHub code space 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yt3n7v?referralCode=P8bW88)
 
-<p 
-  </a>
-</br>
-      
-</br> 
-   
-#### ✧✧ This bot is still under development so if you want to recode/modify it, pls check this main repo once in 2 days because i am continuously debugging it and making major changes in it.
-</br>
+
+
+-------
+
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/917012984396"><img src="https://img.shields.io/badge/Contact SPARKY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/@sparkymon777"><img src="https://img.shields.io/badge/Subscribe SPARKY'S CHANNEL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+</p>
+
+
+## ```Bot Support Groups```
+
+- [`1st GC`](https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh)
+
+# Setup For Deployment 👇
+
+- FORK THE REPOSITORY [Here](https://github.com/Sparkymon777/SPARKY-BOT-MD/fork)
+```
   
-
-## ✧✧✧ Why use chiku as your Base?
-
-```
-1. Copyright Free.
-2. No Source Code Encryption.
-3. Most commands.
-4. Singe prefix ("-").
-5. Self restoration.
-6. No API key needed!
-7. Full premission to Recode.
-8. Regularly Updating and Improving.
-9. Supports Latest WhatsApp, GB, Fouad, Alpha, YoWhatsApp and all other mods (MD).
-
-✧ The main motto of this project is to provide Beginner Devs a base without any limitations 😊.
-✧ Check "Credits" section and Support Them too.
-
--regards Ayush
-```
-</br>
-
-## ✧✧✧ Video tutorial for Heroku Deploy:
-
-<a href="https://youtu.be/DcJ7qMXUcTM"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
-
-Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
-
-####  Scan indirectly from my `repl.it`
-
-#### <a href="https://Chiku-QR.ayushpandey954.repl.co"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
-#### if you can see device not connected error then refresh The qr page and scan again within 15 seconds
-
-
-
-#### ✧ `Fork` this repo.
-####  Scan indirectly from my `repl.it`
-#### ✧ Download the `session.json` file and upload it on the hompage of your `Fork`.
-
+  
   ## Thanks To
 * [`Aswin Sparky`](https://github.com/Sparkymon777)
-
-
-
-## ✧✧✧ Join My Whatsapp Group for Support
-
-<a href="https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-
-```
-### ✧ Requirements for CMD istallation:
-- Git
-- Node.js
-- Libwebp
-- FFmpeg
-
-Note: If you don't pre-install these plugins before CMD Installation bot couldn't execute name commands!
-</br> 
 
