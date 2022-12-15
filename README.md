@@ -2,11 +2,11 @@
 
 <h1 align="center">CHIKU (Beta) <br></h1>
 <p align="center">
-<img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
+<img src="https://i.imgur.com/buZi30m.jpeg" alt="animated" width="255" height="255" />
 </p>
 
 <p align="center">
-Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Chiku Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Ayush-pandey-u" target="_blank">Ayush</a> collaborated with <a href="https://github.com/a" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
