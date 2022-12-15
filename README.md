@@ -79,3 +79,6 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 
 Note: If you don't pre-install these plugins before CMD Installation bot couldn't execute name commands!
 </br> 
+
+  ## Thanks To
+* [`Aswin Sparky`](https://github.com/Sparkymon777)
