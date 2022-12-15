@@ -1,6 +1,6 @@
 
 
-<h1 align="center">SPARKY-BOT-MD<br></h1>
+<h1 align="center">CHIKU (Beta) <br></h1>
 <p align="center">
 <img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
 </p>
