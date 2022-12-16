@@ -10,7 +10,7 @@ Chiku Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 </p>
 
 <p align="center">
-<a href="https://youtu.be/u7mArDtlTZk"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtu.be/DcJ7qMXUcTM"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 # Install
