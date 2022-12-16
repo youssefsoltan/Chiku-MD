@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "Fantox (FantoX001)",
+ "author": "Aswin Sparky",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.3.0",
@@ -86,10 +86,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/DGXeon/CheemsBot-MD3.git"
+  "url": "git+https://github.com/Sparkymon777/SPARKY-BOT-MD.git"
  },
  "bugs": {
-  "url": "https://github.com/DGXeon/CheemsBot-MD3/issues"
+  "url": "https://github.com/Sparkymon777/SPARKY-BOT-MD/issues"
  },
- "homepage": "https://github.com/DGXeon/CheemsBot-MD3#readme"
+ "homepage": "https://github.com/Sparkymon777/SPARKY-BOT-MD#readme"
 }
